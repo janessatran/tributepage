@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
 }
 
-#biography {
+#tribute-info {
     padding: 100px;
 }
 
@@ -90,9 +90,9 @@ header {
     grid-area: 'album6';
 }
 
-img {
-    width: 200px;
-    height: 200px;
+img, #image {
+    max-width: 100%;
+    margin: auto;
 }
 
 .album-container {
@@ -186,7 +186,7 @@ img {
         color: #f92424;
     }
 
-    #biography {
+    #tribute-info {
         padding: 20px;
     }
 
