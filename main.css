@@ -149,6 +149,10 @@ img {
     background-size: contain;
 }
 
+#timeline {
+    padding: 40px;
+}
+
 #timeline > ul {
     text-align: left;
 }
